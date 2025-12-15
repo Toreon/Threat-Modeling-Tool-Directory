@@ -8,8 +8,6 @@ As part of our research for a presentation on threat modeling automation and too
 ## 🛠️ Threat Modeling Tools List 
 We plan to add more information over the next few months, including tool types, licenses, descriptions, and the core methodology used.
 
-Feel free to reach out to us on https://www.toreon.com/threatmodeling/
-
 | Tool                                                                                                                                                   | Released |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
 | [ADTool](https://satoss.uni.lu/members/piotr/adtool/)                                                                                                  | 2013     |
