@@ -18,7 +18,7 @@ We plan to add more information over the next few months, including tool types, 
 | [Arrows](https://github.com/yacwagh/arrows)                                                                                                            | 2025     |
 | [AttackTree](https://www.isograph.com/software/attacktree/)                                                                                            | 2018     |
 | [Attack Tree GPT](https://github.com/aulong-msft/AttackTreeGPT/tree/main)                                                                              | 2024     |
-| [AttackTree](https://attacktree.online/)                                                                                                               | 2023     |
+| [AttackTree.online](https://attacktree.online/)                                                                                                               | 2023     |
 | [AT-AT](https://github.com/yathuvaran/AT-AT)                                                                                                           | 2022     |
 | [CAIRIS](https://cairis.org/)                                                                                                                          | 2012     |
 | [CyberSage](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/cybersageinc1664851284877.threat-modeling-automation-cybersage?tab=overview) | 2023     |
