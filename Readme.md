@@ -28,7 +28,7 @@ We plan to add more information over the next few months, including tool types, 
 | [Ent](https://github.com/jimmythompson/ent)                                                                                                            | 2016     |
 | [ForkTM ](https://forktm.com/)                                                                                                                         | 2023     |
 | [Gram](https://github.com/klarna-incubator/gram)                                                                                                       | 2023     |
-| [Iriusrisk](https://www.iriusrisk.com/)                                                                                                                | 2016     |
+| [IriusRisk](https://www.iriusrisk.com/)                                                                                                                | 2016     |
 | [itemis SECURE](https://www.itemis.com/en/products/itemis-secure/)                                                                                     | 2020     |
 | [Threat Modeling GPTs - example](https://chatgpt.com/g/g-683a14e4b0488191b55072f3539f2834-threat-modeling-assistant)                                   | 2024     |
 | [Microsoft Threat Modeling Tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)                                        | 2008     |
