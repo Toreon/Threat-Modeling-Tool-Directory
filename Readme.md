@@ -68,12 +68,16 @@ We plan to add more information over the next few months, including tool types, 
 
 ## 📖 Methodology and Inclusion Criteria 
 The threat modeling process is a continuous, design-time activity applied throughout the system development lifecycle. As defined in the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/), this involves analyzing system representations to highlight security and privacy concerns. 
+
 ### ✅ Inclusion Criteria 
 The primary requirement for inclusion is that the tool must be an actual application, library, or service that performs work. Specifically, it must be: 
 1. **Software, Code, Library, or Service:** An executable artifact. 
 2. **Automating, Guiding, or Supporting:** Must facilitate the design-time threat modeling process. 
-3. **Not Solely a Methodology or Framework:** Conceptual guides are excluded. 
+
 ### 🚫 Exclusions (What is **NOT** a Threat Modeling Tool?) 
-**Important Distinction:** Threat Modeling Tools are focused on **design-time** analysis, guiding **architectural risk mitigation**. We exclude Threat Intelligence and Threat Hunting tools as they are **operational activities** focused on the external threat environment or active intrusions in live systems.
+**Important Distinction:** Threat Modeling Tools are focused on **design-time** analysis, guiding **architectural risk mitigation**. 
+1. We exclude Threat Intelligence and Threat Hunting tools as they are **operational activities** focused on the external threat environment or active intrusions in live systems.
+2. **Not Solely a Methodology or Framework:** Conceptual guides are excluded.
+
 ## 🤝 Contributing and Contact 
 We welcome contributions to expand and enhance this list! If you have any additional tools you believe should be listed here, please open a pull request or an issue on this repository. Feel free to reach out to us on the [Toreon Threat Modeling Page](https://www.toreon.com/threatmodeling/) for questions or further discussion.
