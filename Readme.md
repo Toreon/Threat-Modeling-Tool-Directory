@@ -76,7 +76,7 @@ As part of our research for a presentation on threat modeling automation and too
 | [tmdd](https://github.com/attasec/tmdd) | Attasec | 2026 | Yes (2026) | Personal | Apache-2.0 license | Active | CLI tool for continuous threat modeling that integrates STRIDE-based threat models directly alongside code using YAML definitions. Uses AI coding assistants to analyse real codebases and generate s... |
 | [Tutamen Threat Model Automator](https://www.tutamantic.com/) | Tutamantic Sec | 2015 | No | Commercial | Proprietary | Archived | A cloud-based tool that automatically generates structured threat models and mitigation suggestions from system architecture and design inputs. |
 
-*Version 6-May-2026*
+*Version 2-May-2026*
 
 ## 📖 Methodology and Inclusion Criteria
 The threat modeling process is a continuous, design-time activity applied throughout the system development lifecycle. As defined in the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/), this involves analyzing system representations to highlight security and privacy concerns.
