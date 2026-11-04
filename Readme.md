@@ -6,7 +6,7 @@
 As part of our research for a presentation on threat modeling automation and tooling, we examined the available threat modeling tools and compiled the list below to share publicly. This directory focuses exclusively on **Threat Modeling Tools**—software, code, libraries, or services that automate, guide, or support the **design-time** threat modeling process.
 
 ## 🛠️ Threat Modeling Tools List
-65 tools indexed — including organisation, AI capabilities, type, license, status, and description.
+68 tools indexed — including organisation, AI capabilities, type, license, status, and description.
 
 | Tool | Organisation | Released | AI | Type | License | Status | Description |
 | :--- | :--- | :---: | :---: | :--- | :--- | :---: | :--- |
@@ -21,12 +21,13 @@ As part of our research for a presentation on threat modeling automation and too
 | [AttackTree](https://www.isograph.com/software/attacktree/) | Isograph | 2018 | No | Commercial | Proprietary | Active | Model system vulnerability, identify weakspots and improve security using threat analysis and attack trees. |
 | [AttackTree.online](https://attacktree.online/) | Schneider IT-Security | 2023 | Yes (2023) | Freeware | Proprietary | Active | A web-based platform for creating and visualizing attack tree diagrams. |
 | [CAIRIS](https://cairis.org/) | Community release | 2012 | No | Community | Apache-2.0 license | Active | Computer Aided Integration of Requirements and Information Security |
-| [Clover](https://clover.security/) | Clover Security | 2025 | Yes (2025) | Commercial | Proprietary | Active | Embeds AI agents into tools like Confluence, Jira, GitHub, Cursor, and Slack to detect design flaws early and enable developers to build securely from the start. Its AI agents replicate the thinki... |
+| [Clearly AI](https://clearly-ai.com/platform) | Clearly AI | 2024 | Yes (2024) | Commercial | Proprietary | Active | A continuous threat modeling platform that triggers reviews from Jira, GitHub, ServiceNow, Azure DevOps and Linear, builds an enterprise context graph from design docs, repos, tickets and policies,... |
+| [Clover](https://clover.security/) | Clover Security | 2025 | Yes (2025) | Commercial | Proprietary | Active | A platform of context-aware product security agents (discovery, design review, security policy, threat modeling, developer guidance, governance, MCP and vibe-coding agents) embedded in Confluence, ... |
 | [Codex Security](https://chatgpt.com/codex/security) | OpenAI | 2026 | Yes (2026) | Commercial | Proprietary | Active | It is an adaptive threat modeling tool that automatically maps system architecture to provide context-aware, actionable risk assessments instead of generic alerts. |
 | [CyberSage](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/cybersageinc1664851284877.threat-modeling-automation-cybersage?tab=overview) | CyberSage | 2023 | Yes (2023) | Commercial | Proprietary | Active | An Azure Marketplace solution for automated, AI-enhanced threat modeling. |
 | [Deciduous](https://kellyshortridge.com/blog/posts/deciduous-attack-tree-app/) | Community release | 2021 | No | Personal | GPL-2.0 license | Active | A lightweight attack tree modeling application focused on practical risk visualization. |
 | [Dethernety](https://github.com/dether-net/dethernety-oss) | Velnomix | 2026 | Yes (2026) | Personal | AGPL-3.0-only | Active | A visual, graph-native threat modeling tool that analyzes architectural attack paths to surface MITRE-mapped security findings. |
-| [DevArmor](http://devarmor.com/) | DevArmor | 2025 | Yes (2026) | Commercial | Proprietary | Active | An AI-native continuous threat modeling platform with multi-modal inference, human-in-the-loop review, and automated enforcement integrated into developer workflows. |
+| [DevArmor](https://www.devarmor.com/) | DevArmor | 2025 | Yes (2025) | Commercial | Proprietary | Active | An AI-native continuous threat modeling platform that builds a living threat model in minutes and updates it with every code change. It codifies the organisation's security standards, maps them to ... |
 | [Devici](https://devici.com/) | Security Compass | 2023 | Yes (2023) | Commercial | Proprietary | Active | A risk modeling platform for simulating cyber threats and business impact scenarios. |
 | [Dragon-GPT](https://github.com/LuizBoina/dragon-gpt) | Community release | 2023 | Yes (2023) | Personal | MIT | Active | A GPT-powered tool for generating threat models using structured security frameworks. |
 | [Ent](https://github.com/jimmythompson/ent) | Personal release | 2016 | No | Personal | GPL-3.0 license | Active | An attack tree generator built on electron |
@@ -38,6 +39,7 @@ As part of our research for a presentation on threat modeling automation and too
 | [itemis SECURE](https://www.itemis.com/en/products/itemis-secure/) | itemis AG | 2020 | No | Commercial | Proprietary | Active | Itemis SECURE is a model-based software tool for threat analysis and risk assessment of technical systems |
 | [Jupyter Threat](https://github.com/P3tra-WP/Jupyter-Threat) | Personal release | 2022 | No | Personal | CC0-1.0 license | Active | Jupyter Threat is a hybrid framework that leverages Jupyter notebooks, Markdown, and Wardley Maps to combine conventional threat modeling with threat-modeling-as-code. |
 | [Microsoft Threat Modeling Tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool) | Microsoft | 2008 | No | Freeware | Proprietary | Active | Microsoft's official tool for building STRIDE-based threat models for software systems. |
+| [Oplane](https://www.oplane.com/product/continuous-threat-modeling) | Oplane | 2022 | Yes (2022) | Commercial | Proprietary | Active | Always-on, architecture-level continuous threat modeling: connects read-only to GitHub or GitLab, maps services, APIs, data flows, agent/MCP interactions and third-party integrations, and highlight... |
 | [OVVL (Open Weakness & Vulnerability Modeler)](https://github.com/OVVL-HSO) | University of Applied Sciences Offenburg | 2018 | No | Academic | No license stated | Active | An open-source modeling framework for representing and analyzing weaknesses, vulnerabilities, and threats across system architectures. |
 | [PILLAR](https://github.com/stfbk/PILLAR) | Fondazione Bruno Kessler | 2024 | Yes (2024) | Academic | Apache-2.0 license | Active | An AI-Powered Privacy Threat Modeling tool based on the LINDDUN framework by leveraging Large Language Models. |
 | [PLOT4AI Assessment](https://plot4.ai/assessments/plot4ai) | PLOT4AI | 2020 | Yes (2020) | Personal | CC-BY-SA-4.0 license | Active | An AI-focused threat modeling and risk assessment platform that uses a structured library of 130+ AI-specific threat cards to help teams identify, assess, and mitigate security, privacy, governance... |
@@ -66,8 +68,9 @@ As part of our research for a presentation on threat modeling automation and too
 | [Threat Modeling GPTs - example](https://chatgpt.com/g/g-683a14e4b0488191b55072f3539f2834-threat-modeling-assistant) | Personal release | 2024 | Yes (2024) | Freeware | Proprietary (Free) | Active | A custom GPT designed to assist users in creating structured threat models. |
 | [ThreatCanvas](https://www.secureflag.com/threat-modeling) | SecureFlag | 2023 | Yes (2023) | Commercial | Proprietary | Active | An AI-powered automated threat modeling tool that generates threat model diagrams and suggested threats/controls from textual system descriptions and integrates with development workflows to help t... |
 | [Threatcl](https://github.com/threatcl/threatcl) | Personal release | 2021 | No | Personal | MIT | Active | Threat Modeling with HCL (HashiCorp's Configuration Language) |
+| [Threatlas](https://threatlas.com/automated-threat-modeling/) | Threatlas | 2026 | Yes (2026) | Commercial | Proprietary | Beta | A continuous AppSec platform that generates threat models from source code, architecture docs, diagrams or OpenAPI specs (or visual design), maps components, data flows and trust boundaries, and tu... |
 | [ThreatModeler](https://threatmodeler.com/) | ThreatModeler | 2010 | Yes (2023) | Commercial | Proprietary | Active | An enterprise-grade automated threat modeling and risk management platform. |
-| [ThreatPad](https://threat-modeling.net/threatpad/) | Threat-Modeling.net | 2025 | No | Personal | Unknown | Active | A collaborative online threat modeling and attack tree design tool. |
+| [ThreatPad](https://threat-modeling.net/threatpad/) | Threat-Modeling.net | 2025 | No | Personal | Unknown | Active | A collaborative online threat modeling tool. Educational. End-to-end encrypted. |
 | [ThreatPlaybook](https://we45.gitbook.io/threatplaybook) | we45 | 2018 | No | Personal | Unknown | Active | A structured methodology and resource for practical threat modeling exercises. |
 | [Threats Manager Studio](https://simoneonsecurity.com/threatsmanagersetup-v1-5-10/) | Microsoft | 2020 | No | Personal | Proprietary/Freeware | Active | A framework and guide for implementing structured threat management processes. |
 | [Threatspec](https://threatspec.org/) | Personal release | 2019 | No | Personal | MIT | Active | A framework that lets developers embed threat modeling directly into source code and CI/CD workflows using structured annotations. |
@@ -76,7 +79,7 @@ As part of our research for a presentation on threat modeling automation and too
 | [tmdd](https://github.com/attasec/tmdd) | Attasec | 2026 | Yes (2026) | Personal | Apache-2.0 license | Active | CLI tool for continuous threat modeling that integrates STRIDE-based threat models directly alongside code using YAML definitions. Uses AI coding assistants to analyse real codebases and generate s... |
 | [Tutamen Threat Model Automator](https://www.tutamantic.com/) | Tutamantic Sec | 2015 | No | Commercial | Proprietary | Archived | A cloud-based tool that automatically generates structured threat models and mitigation suggestions from system architecture and design inputs. |
 
-*Version 2-May-2026*
+*Version 4-Nov-2026*
 
 ## 📖 Methodology and Inclusion Criteria
 The threat modeling process is a continuous, design-time activity applied throughout the system development lifecycle. As defined in the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/), this involves analyzing system representations to highlight security and privacy concerns.
